@@ -183,9 +183,6 @@
 				<artifactId>maven-war-plugin</artifactId>
 				<version>3.4.0</version> <!-- or latest stable -->
 			</plugin>
-		</plugins>
-
-			
 		<!-- CODE COVERAGE -->
  		    <plugin>
  		        <groupId>org.jacoco</groupId>
